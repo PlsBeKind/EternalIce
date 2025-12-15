@@ -1,0 +1,205 @@
+[15:59:09] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[15:59:09] [main/INFO]: Loading 42 mods:
+	- fabric-api 0.138.3+1.21.10
+	   |-- fabric-api-base 1.0.0+14b92d896f
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
+	   |-- fabric-block-api-v1 1.1.5+d17682156f
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
+	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
+	   |-- fabric-content-registries-v0 10.2.6+b6a242646f
+	   |-- fabric-convention-tags-v1 2.1.49+7f945d5b6f
+	   |-- fabric-convention-tags-v2 2.17.0+ff7bc77d6f
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
+	   |-- fabric-data-attachment-api-v1 1.8.33+cd3b9e596f
+	   |-- fabric-data-generation-api-v1 23.2.27+d8b85ef16f
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
+	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
+	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
+	   |-- fabric-item-api-v1 11.5.11+9bce411b6f
+	   |-- fabric-item-group-api-v1 4.2.27+86b3ae576f
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
+	   |-- fabric-loot-api-v2 3.0.67+3f89f5a56f
+	   |-- fabric-loot-api-v3 2.0.14+d17682156f
+	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
+	   |-- fabric-model-loading-api-v1 6.0.4+3ffd6ef06f
+	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
+	   |-- fabric-object-builder-api-v1 21.1.28+9bce411b6f
+	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
+	   |-- fabric-recipe-api-v1 8.2.0+39709ef06f
+	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
+	   |-- fabric-renderer-api-v1 7.2.2+3706cdf36f
+	   |-- fabric-renderer-indigo 4.1.3+d7df91576f
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
+	   |-- fabric-rendering-v1 16.2.0+bee81f016f
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
+	   |-- fabric-resource-loader-v0 3.3.1+d4d4122a6f
+	   |-- fabric-resource-loader-v1 1.0.4+14959b836f
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
+	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
+	   |-- fabric-tag-api-v1 1.2.13+2fa446b26f
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+	- noicemelt 1.0.0
+[15:59:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/benismac/Downloads/noicemelt-template-1.21.10/server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:59:09] [main/INFO]: Compatibility level set to JAVA_21
+[15:59:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[15:59:19] [main/INFO]: NoIceMelt mod initialized!
+[15:59:19] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:59:23] [main/INFO]: Loaded 1461 recipes
+[15:59:23] [main/INFO]: Loaded 1574 advancements
+[15:59:23] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 7.475 ms
+[15:59:23] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[15:59:23] [Server thread/INFO]: Loading properties
+[15:59:23] [Server thread/INFO]: Default game type: SURVIVAL
+[15:59:23] [Server thread/INFO]: Generating keypair
+[15:59:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:59:23] [Server thread/INFO]: Using default channel type
+[15:59:23] [Server thread/INFO]: Preparing level "world"
+[15:59:25] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:59:25] [Server thread/INFO]: Preparing spawn area: 100%
+[15:59:25] [Server thread/INFO]: Time elapsed: 380 ms
+[15:59:25] [Server thread/INFO]: Done (1.426s)! For help, type "help"
+[15:59:25] [Server thread/INFO]: Loaded 17 eternal ice positions from /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[15:59:25] [Server thread/INFO]: Loaded 0 eternal ice positions from /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_the_end.dat
+[15:59:25] [Server thread/INFO]: Loaded 0 eternal ice positions from /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_the_nether.dat
+[15:59:29] [User Authenticator #1/INFO]: UUID of player PlsBeKind is 5dda891f-f70d-4e1a-970e-f8da694c27f3
+[15:59:30] [Server thread/INFO]: PlsBeKind[/127.0.0.1:53038] logged in with entity id 63 at (3071.3662675506835, 67.0, 395.6823687799372)
+[15:59:30] [Server thread/INFO]: PlsBeKind joined the game
+[15:59:32] [Server thread/INFO]: PlsBeKind lost connection: Disconnected
+[15:59:32] [Server thread/INFO]: PlsBeKind left the game
+[15:59:52] [User Authenticator #2/INFO]: UUID of player PlsBeKind is 5dda891f-f70d-4e1a-970e-f8da694c27f3
+[15:59:53] [Server thread/INFO]: PlsBeKind[/127.0.0.1:53069] logged in with entity id 131 at (3071.3662675506835, 67.0, 395.6823687799372)
+[15:59:53] [Server thread/INFO]: PlsBeKind joined the game
+[15:59:59] [Server thread/INFO]: [PlsBeKind: Set own game mode to Creative Mode]
+[16:00:10] [Server thread/INFO]: [PlsBeKind: Set the time to 1000]
+[16:00:13] [Server thread/INFO]: [PlsBeKind: The difficulty has been set to Peaceful]
+[16:00:20] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:20] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:20] [Server thread/INFO]: got the correct item!
+[16:00:20] [Server thread/INFO]: Target position: class_2338{x=3086, y=66, z=384}
+[16:00:20] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:20] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:20] [Server thread/INFO]: Confirmed ice block at class_2338{x=3086, y=66, z=384}
+[16:00:20] [Server thread/INFO]: Saved 18 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:20] [Server thread/INFO]: Added eternal ice at class_2338{x=3086, y=66, z=384}. Total: 18
+[16:00:20] [Server thread/INFO]: EternalIce placed at class_2338{x=3086, y=66, z=384}
+[16:00:26] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:26] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:26] [Server thread/INFO]: got the correct item!
+[16:00:26] [Server thread/INFO]: Target position: class_2338{x=3102, y=66, z=364}
+[16:00:26] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:26] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:27] [Server thread/INFO]: Confirmed ice block at class_2338{x=3102, y=66, z=364}
+[16:00:27] [Server thread/INFO]: Saved 19 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:27] [Server thread/INFO]: Added eternal ice at class_2338{x=3102, y=66, z=364}. Total: 19
+[16:00:27] [Server thread/INFO]: EternalIce placed at class_2338{x=3102, y=66, z=364}
+[16:00:28] [Server thread/INFO]: [PlsBeKind: Successfully filled 98 block(s)]
+[16:00:33] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:34] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:34] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:34] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:35] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:35] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:45] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:46] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:47] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:47] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:47] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:48] [Server thread/INFO]: User placed block: minecraft:glowstone translation{key='block.minecraft.glowstone', args=[]}
+[16:00:49] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:49] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:49] [Server thread/INFO]: got the correct item!
+[16:00:49] [Server thread/INFO]: Target position: class_2338{x=3096, y=66, z=373}
+[16:00:49] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:49] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:49] [Server thread/INFO]: Confirmed ice block at class_2338{x=3096, y=66, z=373}
+[16:00:49] [Server thread/INFO]: Saved 20 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:49] [Server thread/INFO]: Added eternal ice at class_2338{x=3096, y=66, z=373}. Total: 20
+[16:00:49] [Server thread/INFO]: EternalIce placed at class_2338{x=3096, y=66, z=373}
+[16:00:50] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:50] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:50] [Server thread/INFO]: got the correct item!
+[16:00:50] [Server thread/INFO]: Target position: class_2338{x=3096, y=66, z=374}
+[16:00:50] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:50] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:50] [Server thread/INFO]: Confirmed ice block at class_2338{x=3096, y=66, z=374}
+[16:00:50] [Server thread/INFO]: Saved 21 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:50] [Server thread/INFO]: Added eternal ice at class_2338{x=3096, y=66, z=374}. Total: 21
+[16:00:50] [Server thread/INFO]: EternalIce placed at class_2338{x=3096, y=66, z=374}
+[16:00:50] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:50] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:50] [Server thread/INFO]: got the correct item!
+[16:00:50] [Server thread/INFO]: Target position: class_2338{x=3096, y=66, z=375}
+[16:00:50] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:50] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:50] [Server thread/INFO]: Confirmed ice block at class_2338{x=3096, y=66, z=375}
+[16:00:50] [Server thread/INFO]: Saved 22 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:50] [Server thread/INFO]: Added eternal ice at class_2338{x=3096, y=66, z=375}. Total: 22
+[16:00:50] [Server thread/INFO]: EternalIce placed at class_2338{x=3096, y=66, z=375}
+[16:00:51] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:51] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:51] [Server thread/INFO]: got the correct item!
+[16:00:51] [Server thread/INFO]: Target position: class_2338{x=3096, y=66, z=376}
+[16:00:51] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:51] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:51] [Server thread/INFO]: Confirmed ice block at class_2338{x=3096, y=66, z=376}
+[16:00:51] [Server thread/INFO]: Saved 23 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:51] [Server thread/INFO]: Added eternal ice at class_2338{x=3096, y=66, z=376}. Total: 23
+[16:00:51] [Server thread/INFO]: EternalIce placed at class_2338{x=3096, y=66, z=376}
+[16:00:51] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:51] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:51] [Server thread/INFO]: got the correct item!
+[16:00:51] [Server thread/INFO]: Target position: class_2338{x=3096, y=66, z=377}
+[16:00:51] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:51] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:51] [Server thread/INFO]: Confirmed ice block at class_2338{x=3096, y=66, z=377}
+[16:00:51] [Server thread/INFO]: Saved 24 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:51] [Server thread/INFO]: Added eternal ice at class_2338{x=3096, y=66, z=377}. Total: 24
+[16:00:51] [Server thread/INFO]: EternalIce placed at class_2338{x=3096, y=66, z=377}
+[16:00:51] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:51] [Server thread/INFO]: Custom Name: literal{EternalIce}
+[16:00:51] [Server thread/INFO]: got the correct item!
+[16:00:51] [Server thread/INFO]: Target position: class_2338{x=3096, y=66, z=378}
+[16:00:51] [Server thread/INFO]: Block at position BEFORE placement: Block{minecraft:air}
+[16:00:51] [Server thread/INFO]: Checking block at position AFTER placement (50ms delay): Block{minecraft:ice}
+[16:00:51] [Server thread/INFO]: Confirmed ice block at class_2338{x=3096, y=66, z=378}
+[16:00:51] [Server thread/INFO]: Saved 25 eternal ice positions to /Users/benismac/Downloads/noicemelt-template-1.21.10/server/world/data/noicemelt_eternal_ice_overworld.dat
+[16:00:51] [Server thread/INFO]: Added eternal ice at class_2338{x=3096, y=66, z=378}. Total: 25
+[16:00:51] [Server thread/INFO]: EternalIce placed at class_2338{x=3096, y=66, z=378}
+[16:00:53] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:54] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:54] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:54] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:54] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:00:55] [Server thread/INFO]: User placed block: minecraft:ice translation{key='block.minecraft.ice', args=[]}
+[16:01:15] [Server thread/INFO]: [PlsBeKind: The game is sprinting]
+[16:01:42] [Server thread/INFO]: [PlsBeKind: Set the time to 1000]
+[16:02:07] [Server thread/INFO]: Sprint completed with 466 ticks per second, or 2.14 ms per tick
+[16:02:08] [Server thread/INFO]: PlsBeKind lost connection: Disconnected
+[16:02:08] [Server thread/INFO]: PlsBeKind left the game
+[16:02:14] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:329) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:372) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:215) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:169) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at knot/net.minecraft.class_3176$1.run(class_3176.java:189) [server-intermediary.jar:?]

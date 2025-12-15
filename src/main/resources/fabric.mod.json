@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "noicemelt",
+	"version": "${version}",
+	"name": "NoIceMelt",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/noicemelt/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.plsbekind.NoIceMelt"
+		],
+		"client": [
+			"com.plsbekind.NoIceMeltClient"
+		]
+	},
+	"mixins": [
+		"noicemelt.mixins.json",
+		{
+			"config": "noicemelt.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
