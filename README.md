@@ -2,6 +2,11 @@
 Yo yo yo, you know how minecraft ice melts when placed close to a light source? 
 Well no more
 
+<p align="center">
+  <img src="/assets/img/meme1.png" width="45%" />
+  <img src="/assets/img/meme2.png" width="45%" />
+</p>
+
 ## Requirements
 - Minecraft Server (Preferably 1.21.10)
 - Friends that play on that minecraft server
